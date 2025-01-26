@@ -1,0 +1,11 @@
+{
+    "name": "Example Package",
+    "Version": "1.0.0",
+    "Description": "An Example Package for CommTrack",
+    "Package Developer": "Tamatu Systems NZ",
+    "Type": "Test",
+    "Files": ["msg.txt"],
+    "Entry Points": [],
+    "DEVID": "TAMATU01",
+    "PACKID": "TS001"
+}

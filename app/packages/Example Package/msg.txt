@@ -1,0 +1,25 @@
+Hello!
+
+This is a Test / Example Package for CommTrack.
+
+This is just a basic version of a package and what it may contain. Normal Packages would be saved as a ".zip" file.
+
+Package Types can be:
+    Test - For testing packages, Usally only contain a "manifest.json" file and "msg.txt" file
+    Map-Data - This package provides map overlay data such as drawings, objects, and text to overlay on the main map
+    Map-Tile - This package acts as a substitute map-tile, It could be anything from Satalite Imagery to Grayscale
+    Form - This package contains coustom form/s
+
+About the Manifest file:
+
+"name" - The name of the package
+"Version" - The package's current version
+"Description" - A short description of the package
+"Package Developer" - The package's Developer
+"Type" - The type of package (See above)
+"Files" - All the files included in the package
+"Entry Points" - I don't even know lmao...
+"DEVID" - A Developer ID (DEVID), These ar given to trusted develoeprs by Tamatu Systems
+"PACKID" - The packages ID as given to it by ethier Tamatu Systems or the Developer
+
+Bye!

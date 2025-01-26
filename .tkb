@@ -1,0 +1,61 @@
+{
+  "scope": "Workspace",
+  "tasks": {
+    "ndEca7jERWDMviow5IMcv": {
+      "id": "ndEca7jERWDMviow5IMcv",
+      "description": "Implement Map Saving\n- Get Drawings from Map\n- Save Map file\n\nFix Error:\n\njs: Uncaught ReferenceError: initializeMap is not defined",
+      "columnId": "column-doing"
+    },
+    "lp1awyFzQOEnaHxz39gKw": {
+      "id": "lp1awyFzQOEnaHxz39gKw",
+      "description": "Finish Package manager UI\n- Add Icon\n- Finalise design/features",
+      "columnId": "column-todo"
+    },
+    "iccpMnsaNSx6C-0egFG0A": {
+      "id": "iccpMnsaNSx6C-0egFG0A",
+      "description": "Implement Initial Package manager logic\n- Decide how packages will be setup [ZIP?]\n\n- Packages are <.zip> files containing a manifest.json file with pakcage data.",
+      "columnId": "column-done"
+    },
+    "Y0jHrHWgFUKwQuPNBNuTO": {
+      "id": "Y0jHrHWgFUKwQuPNBNuTO",
+      "description": "Create Rassberry Pi edition",
+      "columnId": "column-todo"
+    },
+    "D_4p_oE6N_GuEB4NarPrk": {
+      "id": "D_4p_oE6N_GuEB4NarPrk",
+      "description": "Add Form's Feature and Logic",
+      "columnId": "column-todo"
+    },
+    "t_AuHNFlAMQeoV9IQrN5y": {
+      "id": "t_AuHNFlAMQeoV9IQrN5y",
+      "description": "Fix and Debug Package Manager Logic",
+      "columnId": "column-todo"
+    }
+  },
+  "columns": [
+    {
+      "id": "column-todo",
+      "title": "To do",
+      "tasksIds": [
+        "lp1awyFzQOEnaHxz39gKw",
+        "Y0jHrHWgFUKwQuPNBNuTO",
+        "D_4p_oE6N_GuEB4NarPrk",
+        "t_AuHNFlAMQeoV9IQrN5y"
+      ]
+    },
+    {
+      "id": "column-doing",
+      "title": "In-Progress",
+      "tasksIds": [
+        "ndEca7jERWDMviow5IMcv"
+      ]
+    },
+    {
+      "id": "column-done",
+      "title": "Completed",
+      "tasksIds": [
+        "iccpMnsaNSx6C-0egFG0A"
+      ]
+    }
+  ]
+}
